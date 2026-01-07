@@ -2068,7 +2068,7 @@
         "otherNightReminder": "",
         "reminders": [
 			"Día 1",
-			"Día 2"
+			"Día 2",
 			"Día 3"
 		],
         "setup": true,
@@ -2673,7 +2673,6 @@
         "team": "demon",
         "firstNight": 1,
         "firstNightReminder": "Reemplazá el numero apropiado de vecinos del Señor del Tifón por Secuaces (si son impares puede que el Demonio quede descentrado). Despertalos por separado para mostrarles su nueva ficha de personaje y un pulgar para abajo. Hacé la fase usual de información para los Secuaces y el Demonio.",
-",
         "otherNight": 43,
         "otherNightReminder": "El Señor del Tifón apunta a un jugador. Ese jugador muere.",
         "reminders": [
@@ -2841,4 +2840,5 @@
         "team": "loric",
         "edition": "loric",
         "ability": "Uno o más jugadores tienen un objetivo único. Una vez ese jugador lo logre, consigue información verdadera."
+	}
 ]
