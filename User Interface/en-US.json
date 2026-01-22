@@ -1,5 +1,6 @@
 {
   "common": {
+    "icon": "Icon",
     "show": "Show",
     "hide": "Hide",
     "close": "Close",

@@ -1058,7 +1058,7 @@
         "edition": "snv",
         "team": "townsfolk",
         "firstNight": 8,
-		"firstNightReminder": "El Filósofo puede apuntar a un personaje bueno en la hoja de personaje. Si lo hace, cambiá la ficha del Filósofo por la del personaje en cuestión y marcalo con el recordatorio 'Es el Filósofo'. Si el personaje que eligió está en juego, además de esto, poné el recordatorio 'Borracho' junto al jugador de ese personaje.",
+        "firstNightReminder": "El Filósofo puede apuntar a un personaje bueno en la hoja de personaje. Si lo hace, cambiá la ficha del Filósofo por la del personaje en cuestión y marcalo con el recordatorio 'Es el Filósofo'. Si el personaje que eligió está en juego, además de esto, poné el recordatorio 'Borracho' junto al jugador de ese personaje.",
         "otherNight": 6,
         "otherNightReminder": "Si el Filósofo no usó su habilidad todavía, puede apuntar a un personaje bueno en la hoja de personaje. Si lo hace, cambiá la ficha del Filósofo por la del del personaje en cuestión y marcalo con el recordatorio 'Es el Filósofo'. Si el personaje que eligió está en juego, además de esto, poné el recordatorio 'Borracho' junto al jugador de ese personaje.",
         "reminders": [],
@@ -1223,7 +1223,7 @@
         "edition": "snv",
         "team": "minion",
         "firstNight": 34,
-		"firstNightReminder": "El Ceronovus apunta a un jugador y a un personaje en la hoja de personaje. Ponele el recordatorio 'Enloquecido' a ese jugador y despertalo por separado. Mostrale la tarjeta 'Este personaje te eligió', la ficha del Ceronovus y después la ficha del personaje elegido por el Cerenovus.",
+        "firstNightReminder": "El Ceronovus apunta a un jugador y a un personaje en la hoja de personaje. Ponele el recordatorio 'Enloquecido' a ese jugador y despertalo por separado. Mostrale la tarjeta 'Este personaje te eligió', la ficha del Ceronovus y después la ficha del personaje elegido por el Cerenovus.",
         "otherNight": 23,
         "otherNightReminder": "El Ceronovus apunta a un jugador y a un personaje en la hoja de personaje. Ponele el recordatorio 'Enloquecido' a ese jugador y despertalo por separado. Mostrale la tarjeta 'Este personaje te eligió', la ficha del Ceronovus y después la ficha del personaje elegido por el Cerenovus.",
         "reminders": [
@@ -1425,12 +1425,12 @@
         "firstNight": 60,
         "firstNightReminder": "Poné el recordatorio 'Sabe' en un personaje malvado. Depertá al Cazarrecompensas y apuntá al jugador que tiene el recordatorio. Por separado, despertá al Aldeano malvado y mostrale la tarjeta 'Vos sos' y la ficha de su personaje con el pulgar para abajo.",
         "otherNight": 81,
-		"otherNightReminder": "Si el jugador que el Cazarrecompensas 'Sabe' murió, mové el recordatorio a otro jugador malvado. Despertá al Cazarrecompensas y apuntá al nuevo jugador con el recordatorio 'Sabe'.",
+        "otherNightReminder": "Si el jugador que el Cazarrecompensas 'Sabe' murió, mové el recordatorio a otro jugador malvado. Despertá al Cazarrecompensas y apuntá al nuevo jugador con el recordatorio 'Sabe'.",
         "reminders": [
             "Sabe"
         ],
         "setup": true,
-		"ability": "Empezás conociendo 1 jugador malvado. Si el jugador que conocés muere, aprendés otro jugador malvado esa noche. [1 Aldeano es malvado]",
+        "ability": "Empezás conociendo 1 jugador malvado. Si el jugador que conocés muere, aprendés otro jugador malvado esa noche. [1 Aldeano es malvado]",
         "special": null
     },
     {
@@ -1504,7 +1504,7 @@
         "firstNight": 57,
         "firstNightReminder": "Apuntá a cualquier jugador. Poné el recordatorio 'Visto' en la ficha de ese jugador.",
         "otherNight": 78,
-		"otherNightReminder": "Apuntá a un jugador de un tipo de personaje diferente al que tiene el recordatorio 'Visto'. Mové el recordatorio 'Visto' a la ficha del jugador recién apuntado.",
+        "otherNightReminder": "Apuntá a un jugador de un tipo de personaje diferente al que tiene el recordatorio 'Visto'. Mové el recordatorio 'Visto' a la ficha del jugador recién apuntado.",
         "reminders": [
             "Visto"
         ],
@@ -1606,7 +1606,7 @@
             "Sin habilidad"
         ],
         "setup": true,
-		"ability": "Una vez por partida, en la noche, elegí un jugador vivo: la Damisela, si es elegida, se convierte en un Aldeano fuera de juego. [+ la Damisela]",
+        "ability": "Una vez por partida, en la noche, elegí un jugador vivo: la Damisela, si es elegida, se convierte en un Aldeano fuera de juego. [+ la Damisela]",
         "special": null
     },
     {
@@ -1745,7 +1745,7 @@
         "otherNightReminder": "El Acróbata elige un jugador, marcalo con el recordatorio 'Elegido': si está o es envenenado o emborrachado esta noche, matá al Acróbata.",
         "reminders": [
             "Muerto",
-			"Elegido"
+            "Elegido"
         ],
         "setup": false,
         "ability": "Cada noche*, elegí un jugador: si está o es envenenado o emborrachado esta noche, morís.",
@@ -2008,11 +2008,11 @@
             "2",
             "3",
             "Eligió morir",
-			"Eligió morir",
-			"Eligió morir",
+            "Eligió morir",
+            "Eligió morir",
             "Eligió vivir",
-			"Eligió vivir",
-			"Eligió vivir"
+            "Eligió vivir",
+            "Eligió vivir"
         ],
         "setup": false,
         "ability": "Cada noche*, elegí tres jugadores (todos saben a quienes elegiste): cada uno decide silenciosamente si vive o muere, pero si todos viven, todos mueren.",
@@ -2066,10 +2066,10 @@
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [
-			"Día 1",
-			"Día 2",
-			"Día 3"
-		],
+            "Día 1",
+            "Día 2",
+            "Día 3"
+        ],
         "setup": true,
         "ability": "En el 3er día, los Secuaces se convierten en Disturbios y los nominados mueren pero nominan a un jugador vivo inmediatamente. Esto tiene que pasar.",
         "special": null
@@ -2091,8 +2091,8 @@
     {
         "id": "doomsayer",
         "name": "Agorero",
-        "edition": "loric",
-        "team": "loric",
+        "edition": "",
+        "team": "fabled",
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 0,
@@ -2350,7 +2350,7 @@
         "otherNightReminder": "",
         "reminders": [],
         "setup": false,
-		"ability": "Todos los jugadores saben quién sos. No podés morir durante el día. Si el bien vota, podés elegir que se ejecute inmediatamente.",
+        "ability": "Todos los jugadores saben quién sos. No podés morir durante el día. Si el bien vota, podés elegir que se ejecute inmediatamente.",
         "special": null
     },
     {
@@ -2390,7 +2390,6 @@
         "id": "highpriestess",
         "name": "Suma Sacerdotisa",
         "edition": "",
-        "team": "townsfolk",
         "team": "townsfolk",
         "firstNight": 65,
         "firstNightReminder": "Señalá a un jugador que, si conversasen, beneficiaría a la Suma Sacerdotisa.",
@@ -2505,7 +2504,7 @@
         "otherNightReminder": "",
         "reminders": [],
         "setup": false,
-		"ability": "En el último día, todos los jugadores muertos recuperan su voto.",
+        "ability": "En el último día, todos los jugadores muertos recuperan su voto.",
         "special": null
     },
     {
@@ -2548,7 +2547,7 @@
         "otherNight": 79,
         "otherNightReminder": "El Boludo del Barrio apunta a un jugador: indicale con el pulgar si es bueno o malvado.",
         "reminders": [
-			"Borracho"
+            "Borracho"
         ],
         "setup": true,
         "ability": "Cada noche, elegí un jugador: aprendés su equipo. [+0 a +2 Boludos del Barrio. 1 de los extras está borracho]",
@@ -2567,7 +2566,7 @@
             "Muerto",
             "Muerto",
             "Muerto",
-			"Muerto"
+            "Muerto"
         ],
         "setup": false,
         "ability": "Empezás sabiendo una frase secreta. Por cada vez que la hayas dicho públicamente, un jugador puede morir.",
@@ -2728,7 +2727,7 @@
         "reminders": [
             "1?",
             "2?",
-			"3?"
+            "3?"
         ],
         "setup": false,
         "ability": "Una vez por partida, podés pedir un deseo. Si se cumple, te puede costar algo y dejar una pista sobre su naturaleza.",
@@ -2768,7 +2767,7 @@
         "ability": "En tu 1er día, si nominás y ejecutás a un jugador, el Demonio no mata esta noche.",
         "special": []
     },
-	{
+    {
         "id": "cacklejack",
         "name": "Risitas",
         "edition": "",
@@ -2839,5 +2838,5 @@
         "team": "loric",
         "edition": "loric",
         "ability": "Uno o más jugadores tienen un objetivo único. Una vez ese jugador lo logre, consigue información verdadera."
-	}
+    }
 ]
